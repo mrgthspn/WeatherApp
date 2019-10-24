@@ -1,0 +1,4 @@
+- Used SF Symbols for the weather icons. Please run only on devices running iOS 13 and later.
+- API request is only called once.
+- Permission for location MUST be allowed.
+- Default values will be loaded if there is no internet connection.
